@@ -1,0 +1,5 @@
+This is the TOS1 code for ECD implementation.
+
+Usage: make telosb(micaz) sim (or install ...)
+
+It is based on the Deluge in TOS1.x, and mainly modified the contention mechanism and metrics used for sender selection.
